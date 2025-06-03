@@ -27,7 +27,7 @@ public class MaxMin {
             if(i>max){
                 max=i;
             }if( i<min){
-                min=i
+                min=i;
             }
         }
         System.out.println("MAX: "+max+"   "+"MIN: "+min);

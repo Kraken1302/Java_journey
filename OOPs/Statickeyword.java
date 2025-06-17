@@ -6,6 +6,7 @@ public class Statickeyword {
         food f2 = new food("buurguur");
         System.out.println(f1.count);
         System.out.println(f2.count);
+        System.out.println(food.count);  // to see how many objects created
     }
 }
 class food{
